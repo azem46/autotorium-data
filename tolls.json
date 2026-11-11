@@ -1,0 +1,25 @@
+{
+  "osmangazi": 1170,
+  "izmir_otoyol_tam": 1295,
+  "izmir_otoyol_bursa": 1110,
+  "bursa_cikis": 295,
+  "izmir_aydin": 58,
+  "izmir_cesme": 45,
+  "aydin_mugla": 167,
+  "canakkale_koprusu": 1170,
+  "malkara_canakkale": 415,
+  "eskihisar_topcular": 730,
+  "gestas_canakkale": 725,
+  "anadolu_otoyolu": 215,
+  "ankara_nigde": 925,
+  "kuzey_marmara": 395,
+  "avrasya_tuneli": 330,
+  "fsm_15t": 33,
+  "aydin_denizli": 160,
+  "avrupa_otoyolu_edirne": 115,
+  "tag_otoyolu_adana_urfa": 110,
+  "lastUpdated": "2026-11",
+  "promoHashes": [
+    "20ad7baea3689ccb7182477268d0d7b9b85ed51ce8fd70be7f41289b091cee81"
+  ]
+}
