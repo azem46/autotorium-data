@@ -25,5 +25,175 @@
   "promoSponsors": {
     "20ad7baea3689ccb7182477268d0d7b9b85ed51ce8fd70be7f41289b091cee81": "BataryaKafa"
   },
-  "licenseApiUrl": "https://script.google.com/macros/s/AKfycbySt3KN2ECDONOu2nK5B6WTZbszKkpK04eDLneaNh7YzqAxDNXZNBxoZ-nQtOEwI-_B/exec"
+  "licenseApiUrl": "https://script.google.com/macros/s/AKfycbySt3KN2ECDONOu2nK5B6WTZbszKkpK04eDLneaNh7YzqAxDNXZNBxoZ-nQtOEwI-_B/exec",
+  "evNetworks": [
+    {
+      "id": "migros",
+      "name": "Migen (Migros Şarj)",
+      "ac": 8.95,
+      "dc": 11.5,
+      "color": "#F97316"
+    },
+    {
+      "id": "epower",
+      "name": "e-POwer (Petrol Ofisi)",
+      "ac": 8.99,
+      "dc": 11.99,
+      "color": "#DC2626"
+    },
+    {
+      "id": "sharz",
+      "name": "Sharz.net / Ovolt",
+      "ac": 9.49,
+      "dc": 11.99,
+      "color": "#06B6D4"
+    },
+    {
+      "id": "tesla",
+      "name": "Tesla Supercharger",
+      "ac": 9.5,
+      "dc": 12.2,
+      "color": "#EF4444"
+    },
+    {
+      "id": "voltrun",
+      "name": "Voltrun",
+      "ac": 9.9,
+      "dc": 12.9,
+      "color": "#8B5CF6"
+    },
+    {
+      "id": "aksa",
+      "name": "Aksa Şarj",
+      "ac": 9.9,
+      "dc": 13.49,
+      "color": "#2563EB"
+    },
+    {
+      "id": "kalyon",
+      "name": "Kalyon EV",
+      "ac": 9.5,
+      "dc": 13.5,
+      "color": "#14B8A6"
+    },
+    {
+      "id": "rhg",
+      "name": "RHG Enertürk",
+      "ac": 9.6,
+      "dc": 13.6,
+      "color": "#10B981"
+    },
+    {
+      "id": "enyakit",
+      "name": "EnYakıt",
+      "ac": 9.75,
+      "dc": 13.75,
+      "color": "#EC4899"
+    },
+    {
+      "id": "oncharge",
+      "name": "OnCharge",
+      "ac": 9.8,
+      "dc": 13.8,
+      "color": "#6366F1"
+    },
+    {
+      "id": "greenscience",
+      "name": "Green Science",
+      "ac": 9.85,
+      "dc": 13.9,
+      "color": "#22C55E"
+    },
+    {
+      "id": "astor",
+      "name": "Astor Şarj",
+      "ac": 9.89,
+      "dc": 13.99,
+      "color": "#0EA5E9"
+    },
+    {
+      "id": "beefull",
+      "name": "Beefull",
+      "ac": 9.9,
+      "dc": 13.99,
+      "color": "#EAB308"
+    },
+    {
+      "id": "otojet",
+      "name": "Otojet (Aytemiz)",
+      "ac": 9.95,
+      "dc": 14.2,
+      "color": "#EF4444"
+    },
+    {
+      "id": "wat",
+      "name": "WAT Mobilite (Opet)",
+      "ac": 10.49,
+      "dc": 14.49,
+      "color": "#0284C7"
+    },
+    {
+      "id": "dcharge",
+      "name": "D-Charge",
+      "ac": 9.95,
+      "dc": 14.5,
+      "color": "#A855F7"
+    },
+    {
+      "id": "powersarj",
+      "name": "PowerŞarj",
+      "ac": 9.99,
+      "dc": 14.6,
+      "color": "#F59E0B"
+    },
+    {
+      "id": "tora",
+      "name": "Tora Şarj",
+      "ac": 10.1,
+      "dc": 14.75,
+      "color": "#3B82F6"
+    },
+    {
+      "id": "gioev",
+      "name": "GioEV",
+      "ac": 10.2,
+      "dc": 14.8,
+      "color": "#10B981"
+    },
+    {
+      "id": "borenco",
+      "name": "Borenco",
+      "ac": 10.25,
+      "dc": 14.85,
+      "color": "#F43F5E"
+    },
+    {
+      "id": "esarj",
+      "name": "Eşarj (Enerjisa)",
+      "ac": 9.9,
+      "dc": 14.9,
+      "color": "#EC4899"
+    },
+    {
+      "id": "trugo",
+      "name": "Trugo (Togg)",
+      "ac": 9.95,
+      "dc": 14.98,
+      "color": "#38BDF8"
+    },
+    {
+      "id": "shell",
+      "name": "Shell Recharge",
+      "ac": 11.99,
+      "dc": 15.99,
+      "color": "#FACC15"
+    },
+    {
+      "id": "zes",
+      "name": "ZES (Zorlu Energy)",
+      "ac": 10.99,
+      "dc": 16.49,
+      "color": "#F97316"
+    }
+  ]
 }
