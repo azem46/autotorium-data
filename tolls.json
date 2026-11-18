@@ -93,8 +93,8 @@
     {
       "id": "oncharge",
       "name": "OnCharge",
-      "ac": 9.8,
-      "dc": 13.8,
+      "ac": 9.99,
+      "dc": 13.5,
       "color": "#6366F1"
     },
     {
